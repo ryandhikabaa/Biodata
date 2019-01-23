@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">Beneling</string>
+
+    <string name="Ryandhika">
+        \n
+        Nama Lengkap   : Ryandhika Bintang Abiyyi\n
+        Nama Panggilan : Dhika\n
+        Jenis Kelamin  : Laki- Laki\n
+        TTL            : Kudus, 29-03-03\n
+        Anak Ke        : 2 dari 2 bersaudara \n
+        Alamat         : Ds. Loram Wetan rt02 rw 06 jati kudus\n
+        Nomor Hp       : 085740151761\n
+        Nama Ayah      : Sugeng Hariyadi\n
+        Nama Ibu       : Aprillia Kartikawati\n
+        Alamat Ortu    : Ds. Loram Wetan rt02 rw 06 jati kudus\n
+        Moto Hidup     : Hidup dari tanah kembali ke tanah\n
+    </string>
+    <string name="Hariyanto">
+        \n
+ 	    Nama Lengkap  : Hariyanto\n
+        Jenis Kelamin : Laki-Laki\n
+        TTL           : Kudus, 20 Mei 2002\n
+        Anak Ke       : 1 dari 3 bersaudara\n
+        Alamat        : Ds. Gebog Rt 04 Rw04 Kec. Gebog Kab. Kudus\n
+        Nomor Hp      : 0867402597039\n
+        Nama Ayah     : Sujito\n
+        Nama Ibu      : Sriatun\n
+        Alamat Ortu   : Ds. Gebog Rt 04 Rw04 Kec. Gebog Kab. Kudus\n
+        Moto Hidup    : Kesempatan bukanlah hal yang kebetulan. Kau harus menciptakannya.\n
+    </string>
+    <string name="Hasan">
+        \n
+ 	    Nama Lengkap  : Hasan Wijaya\n
+        Jenis Kelamin : Laki-laki\n
+        TTL           : Demak, 15 Agustus 2003\n
+        Anak Ke       : 1 dari 1 bersaudara\n
+        Alamat        : Ds. Hadiwarno Rt 02 Rw 02 Kec. Mejobo Kab.Kudus\n
+        Nomor Hp      : 0867402597039\n
+        Nama Ayah     : Nur Kholis\n
+        Nama Ibu      : Wati\n
+        Alamat Ortu   : Ds. Hadiwarno Rt 02 Rw 02 Kec. Mejobo Kab.Kudus\n
+        Moto Hidup    : Sukses adalah saat persiapan dan kesempatan bertemu.\n
+
+    </string>
+    <string name="Naufal">
+        \n
+ 	    Nama Lengkap  : Naufal M. Firdaus\n
+        Jenis Kelamin : Laki-Laki\n
+        TTL           : Semarang, 28 September 2001\n
+        Anak Ke       : 2 dari 4 bersaudara\n
+        Alamat        : Ds. Mlonggo Kab. Jepara\n
+        Nomor Hp      : 0867402597039\n
+        Nama Ayah     : Yoyok Sutoyo\n
+        Nama Ibu      : Heni Listiani\n
+        Alamat Ortu   : Ds. Mlonggo Kab. Jepara\n
+        Moto Hidup    : Rahasia kesuksesan adalah mengetahui yang orang lain tidak ketahui.\n
+    </string>
+    <string name="Istiqomah">
+        \n
+ 	    Nama Lengkap  : Istiqomah\n
+        Jenis Kelamin : Perempuan\n
+        TTL           : Kudus, 28 Desember 2001\n
+        Anak Ke       : 1 dari 3 bersaudara\n
+        Alamat        : Ds. Demaan Kec. Kota Kab. Kudus\n
+        Nomor Hp      : 0867402597039\n
+        Nama Ayah     : Agus Hamdun\n
+        Nama Ibu      : Ristina Dwi\n
+        Alamat Ortu   : Ds. Demaan Kec. Kota Kab. Kudus\n
+        Moto Hidup    : Jangan biarkan hari kemarin merenggut banyak hal hari ini.\n
+    </string>
+    <string name="Qudsy">
+        \n
+ 	    Nama Lengkap  : Abu Rijal Qudsy\n
+        Jenis Kelamin : Laki-Laki\n
+        TTL           : Kudus, 1 Febuari 2003\n
+        Anak Ke       : 3 dari 3 besaudara\n
+        Alamat        : Ds. Kedungdowo Kec.Kaliwungu Kab. Kudus\n
+        Nomor Hp      : 0867402597039\n
+        Nama Ayah     : Ali Ridho\n
+        Nama Ibu      : Khusniyati\n
+        Alamat Ortu   : Ds. Kedungdowo Kec.Kaliwungu Kab. Kudus\n
+        Moto Hidup    : Bertambah tua itu bukan berarti kehilangan masa muda. Tapi babak baru dari kesempatan dan kekuatan.\n
+    </string>
+    <string name="Rais">
+        \n
+ 	    Nama Lengkap  : Nur Achmad Shafy\n
+        Jenis Kelamin : Laki-Laki\n
+        TTL           : Semarang, 27 Juni 2004\n
+        Anak Ke       : 1 dari 2 bersaudara\n
+        Alamat        : Ds. Golantepus Kec. Mejobo Kab.Kudus\n
+        Nomor Hp      : 0867402597039\n
+        Nama Ayah     : Madiditya samudra\n
+        Nama Ibu      : Sri Waluyo Dwi\n
+        Alamat Ortu   : Ds. Golantepus Kec. Mejobo Kab.Kudus\n
+        Moto Hidup    : Hidup dapat dipahami dengan berpikir ke belakang. Tapi ia juga harus dijalani dengan berpikir ke depan.\n
+    </string>
+    <string name="Ivan">
+        \n
+ 	    Nama Lengkap  : Aditya Ivan P\n
+        Jenis Kelamin : Laki-Laki\n
+        TTL           : Purbalingga, 3 Oktober 2003\n
+        Anak Ke       : 1 dari 2 bersaudara\n
+        Alamat        : Ds. Nganguk Kec.Kota Kab.Kudus\n
+        Nomor Hp      : 0867402597039\n
+        Nama Ayah     : Masrukhan\n
+        Nama Ibu      : Miyati\n
+        Alamat Ortu   : Ds. Nganguk Kec.Kota Kab.Kudus\n
+        Moto Hidup    : Terasa sulit ketika aku merasa harus melakukan sesuatu. Tetapi, menjadi mudah ketika aku menginginkannya.\n
+    </string>
+    <string name="Indra">
+        \n
+ 	    Nama Lengkap  : Indra Wahyu M\n
+        Jenis Kelamin : Laki - Laki\n
+        TTL           : Aceh Barat, 2 Mei 2003\n
+        Anak Ke       : 2 dari 4 bersaudara\n
+        Alamat        : Ds.Tanjung Karang Kec.Jati Kab.Kudus\n
+        Nomor Hp      : 0867402597039\n
+        Nama Ayah     : Mulyono\n
+        Nama Ibu      : Maryatun\N
+        Alamat Ortu   : Ds.Tanjung Karang Kec.Jati Kab.Kudus\N
+        Moto Hidup    : Kerahkan hati, pikiran, dan jiwamu ke dalam aksimu yang paling kecil sekalipun. Inilah rahasia kesuksesan.\N
+    </string>
+
+
+</resources>
